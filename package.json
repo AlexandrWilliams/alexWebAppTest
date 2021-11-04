@@ -1,0 +1,9 @@
+{
+  "name": "alex-web-app-test",
+  "version": "0.0.0",
+  "description": "alexWebAppTest",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
